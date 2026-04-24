@@ -240,7 +240,7 @@ Proper Proc
 ## 📐 Metodología
 
 El proyecto fue desarrollado utilizando **Scrum**, con 6 sprints de duración variable
-(5 a 21 días), estimados mediante **Planning Poker** y un total de **382 puntos de historia**
+(5 a 21 días), estimados mediante **Planning Poker** y un total de **328 puntos de historia**
 a lo largo de **82 días de desarrollo**. El desempeño de cada sprint fue monitoreado con
 **Burndown Charts**.
 
